@@ -2,11 +2,9 @@
 Using the technologies of Python and BeautifulSoup to web scrap an IMDB website and access the top-rated tv shows and their rank, year and ratings
 
 
-Followed the youtube tutorial - https://www.youtube.com/watch?v=LCVSmkyB4v8
 
-*The video explains the ways in which we can perform web scraping in Python using BeautifulSoup and load the desired dataset in an excel sheet.*
 
-**Prerequisite Modules - 
+**Prerequisite Modules - **
 - Requests Module - To access the website
 - BeautifulSoup - To parse the HTML and access the tags in the website.
 
@@ -30,7 +28,7 @@ import requests
 # importing modules
 ```
 
-**What we are trying to do :
+**What we are trying to do :**
 
 Trying to load the name, rank and imdb rating of a tv show into an excel sheet.
 
